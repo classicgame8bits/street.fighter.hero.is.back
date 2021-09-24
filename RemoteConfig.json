@@ -7,7 +7,7 @@
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
-  "adsType": 0,
+  "adsType": 1,
   "numberPressToShowAds": 15,
   "showBannerMenu": false,
   "showBannerPlay": false,
