@@ -1,8 +1,8 @@
 {
   "packageName": "street.fighter.hero.is.back",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
-  "forceUpdateUrl": "market://details?id=EMPTY",
+  "forceUpdateUrl": "market://details?id=ninja.turtles.classic.old.school",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
